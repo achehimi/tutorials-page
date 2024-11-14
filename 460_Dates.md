@@ -2,7 +2,7 @@
 
 
 ### Working with Dates in R
-- [R for Data Science: Dates and Times](https://r4ds.had.co.nz/dates-and-times.html) - A comprehensive guide to working with dates using `lubridate`.
+- [R for Data Science: Dates and Times](https://r4ds.hadley.nz/datetimes) - A comprehensive guide to working with dates using `lubridate`.
 - [Lubridate Cheatsheet](https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_lubridate.pdf) - A quick reference for common `lubridate` functions.
 
 ### Example Code for Date Operations
@@ -55,6 +55,6 @@ next_week; prev_month; rounded_down; rounded_nearest; rounded_up
 
 Reference: 
 
-Wickham, Hadley, and Garrett Grolemund. *R for Data Science: Import, Tidy, Transform, Visualize, and Model Data.* O'Reilly Media, 2017. Available online at [https://r4ds.had.co.nz/dates-and-times.html](https://r4ds.had.co.nz/dates-and-times.html). 
+Wickham, Hadley, et al. *R for Data Science.* 2nd ed., 2024, Accessed 14 Nov. 2024. Available online at [https://r4ds.hadley.nz/datetimes](https://r4ds.hadley.nz/datetimes). 
 
 
