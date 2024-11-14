@@ -3,11 +3,11 @@
 
 This page provides resources and tutorials for working with dates in R.
 
-## Working with Dates in R
+### Working with Dates in R
 - [R for Data Science: Dates and Times](https://r4ds.had.co.nz/dates-and-times.html) - A comprehensive guide to working with dates using `lubridate`.
 - [Lubridate Cheatsheet](https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_lubridate.pdf) - A quick reference for common `lubridate` functions.
 
-## Example Code for Date Operations
+### Example Code for Date Operations
 ```{r}
 # Sample code for parsing dates with lubridate
 library(lubridate)
@@ -15,7 +15,7 @@ date1 <- ymd("2023-01-01")
 date2 <- mdy("01-31-2023")
 ```
 
-## Exercise inspired by the *R for Data Science* book by Hadley Wickham and Garrett Grolemund and covers common date operations in R using the lubridate package. 
+### Exercise inspired by the *R for Data Science* book by Hadley Wickham and Garrett Grolemund and covers common date operations in R using the lubridate package. 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = F, message = F, warning = F)
