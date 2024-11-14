@@ -1,6 +1,5 @@
 # R Resources for Working with Dates
 
-This page provides resources and tutorials for working with dates in R.
 
 ### Working with Dates in R
 - [R for Data Science: Dates and Times](https://r4ds.had.co.nz/dates-and-times.html) - A comprehensive guide to working with dates using `lubridate`.
