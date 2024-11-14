@@ -1,4 +1,3 @@
-# tutorials-page
 # R Resources for Working with Dates
 
 This page provides resources and tutorials for working with dates in R.
